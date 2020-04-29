@@ -35,11 +35,11 @@ While this course will utilize examples from the petroleum industry; any earth s
   - import packages
   - follow-along notebooks
 - Other things
-  - Installing python and environments
+  - Installing python and environments <Would assign as HW?, might not be needed for the class>
   - IDEs (e.g., Atom) and Jupyter notebooks
   - Github integration
 
-## Week 2 - `python` syntax and data types
+## Week 2 - `python` syntax and data types (Consider combining with week 3)
 ### Theory
 - data types and why they matter
 - indexing
